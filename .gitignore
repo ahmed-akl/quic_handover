@@ -1,0 +1,9 @@
+# Generated TLS certificate (created locally by generate_certificate.py)
+*.pem
+
+# Generated chart images (re-created by running the visualization scripts)
+*.png
+
+# Python cache files
+__pycache__/
+*.pyc
